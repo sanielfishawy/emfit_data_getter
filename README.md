@@ -4,6 +4,9 @@ Reads heart rate and respiration rate from Emfit QS device.
 
 Uses the html page served by the device on the local network. This code must be run on the same local network as the Emfit QS device to work.
 
+# Requirements
+Python 3.7
+
 # Usage
 ```Python
 from emfit_data_getter import EmfitDataGetter
